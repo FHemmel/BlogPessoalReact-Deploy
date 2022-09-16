@@ -1,0 +1,8 @@
+.titulo{
+    font-weight: bold;
+ }
+
+ .bg-sobreNos{
+        background: rgb(107,105,105);
+        background: radial-gradient(circle, rgba(107,105,105,1) 0%, rgba(59,55,55,1) 100%);
+ }
